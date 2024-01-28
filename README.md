@@ -1,4 +1,5 @@
 # Exploring Severe Weather Patterns in Colorado From 2018-2023
+![image](https://github.com/varun-crypto/Exploring-Severe-Weather-Patterns-in-Colorado-from-2018-2023/assets/69026838/e65b4ad4-a41e-4c07-b171-03b3b2ce818a)
 
 # Introduction:
 Severe weather events pose significant challenges to communities, infrastructure, and public safety. In the context of Colorado, a state known for its diverse geography and weather patterns, understanding the frequency and impact of severe weather occurrences is of paramount importance. This project delves into the comprehensive analysis of severe weather events within specific counties or zones in Colorado, aiming to shed light on their spatial distribution, frequency, and economic consequences.
